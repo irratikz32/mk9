@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+	color: white;	
+	background-color: #000;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+	
+h1 {color:#FFF;
+	
+}
+
+p { text-indent:90px;
+	
+ 	font-size:medium;
+  }
+	
+a:link {color:#F00; }
+a:visited {color:#FF0; }
+a:hover {color:#999;
+}
+
+
+
+
+	
+
+
+
+
+
+
