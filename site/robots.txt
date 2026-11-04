@@ -1,0 +1,14 @@
+User-agent: TurnitinBot
+Disallow: /
+User-agent: psbot
+Disallow: /
+User-agent: ichiro
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: Snapbot
+Disallow: /
+User-agent: genieBot 
+Disallow: /
+User-agent: unhipbot
+Disallow: /
